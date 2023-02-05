@@ -1,0 +1,21 @@
+.main {
+    text-align: center;
+    padding: 2rem 10rem;
+
+    h1 {
+        font-size: 2rem;
+        font-weight: 500;
+        margin: 2rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+        font-weight: 400;
+        margin: 4rem;
+    }
+}
+
+.team {
+    display: flex;
+    justify-content: space-between;
+}

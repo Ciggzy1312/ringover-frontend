@@ -1,0 +1,44 @@
+.main {
+    text-align: center;
+    padding: 8rem;
+}
+
+.card {
+    margin: auto;
+    padding: 2rem 4rem;
+    width: 250px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 2rem rgba(0, 0, 0, 0.2);
+
+    h2 {
+        font-size: 1.5rem;
+        font-weight: 500;
+        margin: 0.2rem;
+    }
+}
+
+.content {
+    text-align: center;
+
+    p {
+        font-size: 1rem;
+        font-weight: 300;
+    }
+}
+
+.title {
+    padding: 1.2rem 0;
+    text-align: left;
+
+    h3 {
+        font-size: 1.3rem;
+        font-weight: 500;
+        margin: 0;
+    }
+
+    p {
+        font-size: 1rem;
+        font-weight: 300;
+        margin: 0;
+    }
+}

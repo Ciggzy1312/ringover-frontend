@@ -1,0 +1,39 @@
+.card {
+    border: 1px solid #ccc;
+    box-shadow: 0 0 2rem rgba(0, 0, 0, 0.2);
+}
+
+.image {
+
+    img {
+        object-fit: cover;
+    }
+}
+
+.content {
+    text-align: center;
+
+    h2 {
+        padding: 1rem 0rem;
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 1rem;
+    }
+}
+
+.links {
+    
+    ul {
+        display: flex;
+        justify-content: center;
+        list-style: none;
+        padding: 0;
+    }
+
+    li {
+        padding: 0 0.5rem;
+    }
+}
